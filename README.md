@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><br>Je suis Florent Desallangre, développeur Fullstack Js.<br>C'est en pratiquant qu'on apprend alors.. <br>Je pratique!</p>
+<p align="left"><br>Je suis Florent Desallangre, développeur Fullstack.<br>C'est en pratiquant qu'on apprend alors.. <br>Je pratique!</p>
 
 ###
 
